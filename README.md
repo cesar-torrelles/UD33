@@ -11,7 +11,7 @@ Instalación de herramientas y creación de un proyecto con Angular
 ### 1. Descripción
 
 1 ejercicio  relacionado con:
-Conexion Angular
+Instalación de herramientas y creación de un proyecto con Angular -
 CC21_REUS_JavaAngular_2
 
 ###  2. Link a un demo con el proyecto desplegado:
