@@ -1,5 +1,5 @@
 # Unidad 33 - Angular
-Instalacion de herramientas y creacion de un proyecto con Angular
+Instalación de herramientas y creación de un proyecto con Angular
 
 ### Equipo de desarrollo:
 
